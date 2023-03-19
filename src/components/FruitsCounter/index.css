@@ -1,0 +1,44 @@
+span {
+  color: #ffd569;
+}
+.mainHead {
+  background-color: #ffd569;
+  height: 100vh;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+.card {
+  background-color: white;
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  max-width: 700px;
+}
+.fruits {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.fruit {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  width: 40%;
+}
+.btn {
+  padding: 8px 15px;
+  border: 0px;
+  background-color: #0b9bff;
+  color: white;
+  border-radius: 8px;
+  margin: 10px;
+}
